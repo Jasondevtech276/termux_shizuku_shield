@@ -1,0 +1,5 @@
+# Lista de permisos críticos a monitorear
+CAMERA
+READ_EXTERNAL_STORAGE
+ACCESS_FINE_LOCATION
+RECORD_AUDIO
