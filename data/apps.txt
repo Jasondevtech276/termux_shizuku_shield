@@ -1,0 +1,4 @@
+# Lista de apps sospechosas
+com.ejemplo.adware1
+com.ejemplo.adware2
+com.ejemplo.bloatware
